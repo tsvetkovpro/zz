@@ -9,14 +9,14 @@ if (isset($_POST['send_form'])) {
   $phone = $_POST['user_phone'];
 
   $title = 'Заявка с сайта ZберZайм';
-  $from = 'orenuc@mail.ru';
-  $to = 'orenuc@mail.ru';
+  $from = 'kpkzberzaim@gmail.com';
+  $to = 'kpkzberzaim@gmail.com';
   $text = '
   <u>
     <b>
       Внимание!
     </b>
-      Поступило заявка с сайта ЗберЗайм
+      Поступила заявка с сайта ЗберЗайм
   </u>
   <br><br>
     //---------- начало сообщения ----------//

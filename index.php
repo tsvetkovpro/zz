@@ -686,21 +686,41 @@ include_once "functions.php"
   <section class="section photos-users">
     <h2 class="section__title photos-users__title">Нас много, потому что нам верят. Присоединяйтесь!</h2>
     <div class="photos-users__list">
-      <img src="/images/clients/1.jpg" alt="">
-      <img src="/images/clients/2.jpg" alt="">
-      <img src="/images/clients/3.jpg" alt="">
-      <img src="/images/clients/4.jpg" alt="">
-      <img src="/images/clients/5.jpg" alt="">
-      <img src="/images/clients/6.jpg" alt="">
-      <img src="/images/clients/7.jpg" alt="">
-      <img src="/images/clients/8.jpg" alt="">
-      <img src="/images/clients/9.jpg" alt="">
-      <img src="/images/clients/10.jpg" alt="">
+      <a href="/images/clients/1.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/1.jpg" alt="">
+      </a>
+      <a href="/images/clients/2.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/2.jpg" alt="">
+      </a>
+      <a href="/images/clients/3.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/3.jpg" alt="">
+      </a>
+      <a href="/images/clients/4.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/4.jpg" alt="">
+      </a>
+      <a href="/images/clients/5.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/5.jpg" alt="">
+      </a>
+      <a href="/images/clients/6.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/6.jpg" alt="">
+      </a>
+      <a href="/images/clients/7.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/7.jpg" alt="">
+      </a>
+      <a href="/images/clients/8.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/8.jpg" alt="">
+      </a>
+      <a href="/images/clients/9.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/9.jpg" alt="">
+      </a>
+      <a href="/images/clients/10.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/10.jpg" alt="">
+      </a>
     </div>
   </section>
 
   <section class="section reviews">
-    <h2 class="section__title visuallyhidden">Отзывы</h2>
+    <h2 class="section__title">Отзывы о нас</h2>
     <div class="section__body container-fluid">
       <div class="reviews__slider base-slider">
         <div class="reviews__item">
@@ -828,6 +848,36 @@ include_once "functions.php"
 
   <script src="js/plugins.js"></script>
   <script src="js/script.js"></script>
+  
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript" >
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter45488910 = new Ya.Metrika({
+					id:45488910,
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true,
+					webvisor:true
+				});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/45488910" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
 
 </body>
 </html>
