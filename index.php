@@ -9,7 +9,7 @@ include_once "functions.php"
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>ЗберЗайм</title>
+  <title>Сберегательные программы кредитного потребительского кооператива СОЮЗ-ЗБЕРЗАЙМ</title>
   <style>
     <?php include "critical-style.css";?>
   </style>
@@ -42,7 +42,7 @@ include_once "functions.php"
       <div class="welcome__content welcome__column">
         <h2 class="welcome__title">
           Откройте депозит в «СОЮЗ<span class="company-name"><span class="company-name__piece">ZБЕР</span>ZАЙМ</span>»
-          <small>и получите пассивный доход <mark>до 17,5%</mark> в год со 100% защитой своих финансов</small>
+          <small>и получите пассивный доход <mark>до 17%</mark> в год со 100% защитой своих финансов</small>
         </h2>
         <ul class="welcome__features">
           <li>Пайщикам кооператива выплачиваем стабильный процент прибыли</li>
@@ -174,15 +174,15 @@ include_once "functions.php"
                 </tr>
                 <tr>
                   <td data-th="срок, мес.">6</td>
-                  <td data-th="годовой %">16,5</td>
-                  <td class="intro__table-accent" data-th="сумма взноса, руб.">1 800 000</td>
-                  <td data-th="сумма по окончанию срока*, руб.">141 412</td>
+                  <td data-th="годовой %">16</td>
+                  <td class="intro__table-accent" data-th="сумма взноса, руб.">1 400 000</td>
+                  <td data-th="сумма по окончанию срока*, руб.">107 100</td>
                 </tr>
                 <tr>
                   <td data-th="срок, мес.">12</td>
-                  <td data-th="годовой %">17,5</td>
+                  <td data-th="годовой %">17</td>
                   <td class="intro__table-accent" data-th="сумма взноса, руб.">500 000</td>
-                  <td data-th="сумма по окончанию срока*, руб.">81 820</td>
+                  <td data-th="сумма по окончанию срока*, руб.">79 750</td>
                 </tr>
               </tbody>
             </table>
@@ -195,8 +195,8 @@ include_once "functions.php"
             <p>Проценты по программе с вкладом составляют:</p>
             <ul>
               <li>на 3 мес. – <b>15%</b>,</li>
-              <li>на 6 мес. – <b>16,5%</b>,</li>
-              <li>на 12 мес. – <b>17,5%</b>.</li>
+              <li>на 6 мес. – <b>16%</b>,</li>
+              <li>на 12 мес. – <b>17%</b>.</li>
             </ul>
             <a class="intro-subsection__button button" data-fancybox href="#popup-callback">Выбрать</a>
           </div>
@@ -226,9 +226,9 @@ include_once "functions.php"
           </li>
           <li class="intro-bonuses__item">
             <div class="intro-bonuses__text">
-              <b class="intro-bonuses__caption">Сертификаты на Новый Год</b>
+              <b class="intro-bonuses__caption">Сертификаты всем клиентам</b>
               <div class="intro-bonuses__description">
-                <p>Каждый год мы дарим сертификаты на сумму 6 000 рублей</p>
+                <p>Дарим сертификаты на сумму 6 000 рублей, при открытии нового офиса или на праздники</p>
               </div>
             </div>
           </li>
@@ -532,7 +532,7 @@ include_once "functions.php"
           </div>
           <div class="features__text">
             <p>
-              <b class="features__value">17.5%</b> годовых (24% – по акции)
+              <b class="features__value">17%</b> годовых (24% – по акции)
             </p>
           </div>
         </li>
@@ -544,7 +544,7 @@ include_once "functions.php"
           </div>
           <div class="features__text">
             <p>
-              <b class="features__value">3</b> мес. – минимальный срок вклада
+              <b class="features__value">3</b> месяца – минимальный срок вклада
             </p>
           </div>
         </li>
@@ -556,7 +556,7 @@ include_once "functions.php"
           </div>
           <div class="features__text">
             <p>
-              <b class="features__value">18</b> региональных офисов
+              <b class="features__value">22</b> региональных офиса
             </p>
           </div>
         </li>
@@ -568,7 +568,7 @@ include_once "functions.php"
           </div>
           <div class="features__text">
             <p>
-              <b class="features__value">17&nbsp;895</b> пайщиков
+              <b class="features__value">1&nbsp;225</b> пайщиков
             </p>
           </div>
         </li>
@@ -580,7 +580,7 @@ include_once "functions.php"
           </div>
           <div class="features__text">
             <p>
-              <b class="features__value">10</b> лет успешной деятельности
+              <b class="features__value">4</b> года успешной деятельности
             </p>
           </div>
         </li>
@@ -801,17 +801,22 @@ include_once "functions.php"
   <footer class="site-footer">
     <div class="site-footer__inner container">
       <div class="site-footer__socials socials">
-        <a class="socials__item" href="" title="Мы в Вконтакте">
+        <a class="socials__item" href="https://vk.com/zberzaim" target="_blank" title="Мы в Вконтакте">
           <svg class="socials__icon" width="32" height="32">
             <use xlink:href="images/symbols.svg#soc-vk"></use>
           </svg>
         </a>
-        <a class="socials__item" href="" title="Мы в Instagram">
+        <a class="socials__item" href="https://www.instagram.com/souzzberzaim/" target="_blank" title="Мы в Instagram">
           <svg class="socials__icon" width="32" height="32">
             <use xlink:href="images/symbols.svg#soc-instagram"></use>
           </svg>
         </a>
-        <a class="socials__item" href="" title="Мы в Однокласники">
+        <a class="socials__item" href="https://www.facebook.com/groups/SOUZZBERZAIM/" target="_blank" title="Мы на Фейсбуке">
+          <svg class="socials__icon" width="32" height="32">
+            <use xlink:href="images/symbols.svg#soc-facebook"></use>
+          </svg>
+        </a>
+        <a class="socials__item" href="https://ok.ru/group/54504100331637" target="_blank" title="Мы в Однокласники">
           <svg class="socials__icon" width="32" height="32">
             <use xlink:href="images/symbols.svg#soc-ok"></use>
           </svg>
@@ -848,7 +853,7 @@ include_once "functions.php"
 
   <script src="js/plugins.js"></script>
   <script src="js/script.js"></script>
-  
+
 	<!-- Yandex.Metrika counter -->
 	<script type="text/javascript" >
 	(function (d, w, c) {
