@@ -608,55 +608,72 @@ include_once "functions.php"
       <div class="gallery-slider base-slider">
 
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/1.jpg"><img src="images/offices/thumbs/1.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/11.jpg">
+          <img src="images/offices/thumbs/11.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/2.jpg"><img src="images/offices/thumbs/2.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/21.jpg">
+          <img src="images/offices/thumbs/21.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/3.jpg"><img src="images/offices/thumbs/3.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/31.jpg">
+          <img src="images/offices/thumbs/31.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/4.jpg"><img src="images/offices/thumbs/4.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/41.jpg">
+          <img src="images/offices/thumbs/41.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/5.jpg"><img src="images/offices/thumbs/5.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/51.jpg">
+          <img src="images/offices/thumbs/51.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/6.jpg"><img src="images/offices/thumbs/6.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/61.jpg">
+          <img src="images/offices/thumbs/61.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/7.jpg"><img src="images/offices/thumbs/7.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/71.jpg">
+          <img src="images/offices/thumbs/71.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/8.jpg"><img src="images/offices/thumbs/8.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/81.jpg">
+          <img src="images/offices/thumbs/81.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/9.jpg"><img src="images/offices/thumbs/9.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/91.jpg">
+          <img src="images/offices/thumbs/91.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/10.jpg"><img src="images/offices/thumbs/10.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/101.jpg">
+          <img src="images/offices/thumbs/101.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/11.jpg"><img src="images/offices/thumbs/11.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/111.jpg">
+          <img src="images/offices/thumbs/111.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/12.jpg"><img src="images/offices/thumbs/12.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/121.jpg">
+          <img src="images/offices/thumbs/121.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/13.jpg"><img src="images/offices/thumbs/13.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/131.jpg">
+          <img src="images/offices/thumbs/131.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/14.jpg"><img src="images/offices/thumbs/14.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/141.jpg">
+          <img src="images/offices/thumbs/141.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/15.jpg"><img src="images/offices/thumbs/15.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/151.jpg">
+          <img src="images/offices/thumbs/151.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/16.jpg"><img src="images/offices/thumbs/16.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/161.jpg">
+          <img src="images/offices/thumbs/161.jpg" alt=""></a>
         </div>
         <div class="gallery-slider__item">
-          <a data-fancybox="gallery" data-type="image" href="images/offices/17.jpg"><img src="images/offices/thumbs/17.jpg" alt=""></a>
+          <a data-fancybox="gallery" data-type="image" href="images/offices/171.jpg">
+          <img src="images/offices/thumbs/171.jpg" alt=""></a>
         </div>
 
       </div>
@@ -700,35 +717,35 @@ include_once "functions.php"
   <section class="section photos-users">
     <h2 class="section__title photos-users__title">Нас много, потому что нам верят. Присоединяйтесь!</h2>
     <div class="photos-users__list">
-      <a href="/images/clients/1.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/1.jpg" alt="">
+      <a href="/images/clients/11.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/11.jpg" alt="">
       </a>
-      <a href="/images/clients/2.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/2.jpg" alt="">
+      <a href="/images/clients/21.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/21.jpg" alt="">
       </a>
-      <a href="/images/clients/3.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/3.jpg" alt="">
+      <a href="/images/clients/31.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/31.jpg" alt="">
       </a>
-      <a href="/images/clients/4.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/4.jpg" alt="">
+      <a href="/images/clients/41.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/41.jpg" alt="">
       </a>
-      <a href="/images/clients/5.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/5.jpg" alt="">
+      <a href="/images/clients/51.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/51.jpg" alt="">
       </a>
-      <a href="/images/clients/6.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/6.jpg" alt="">
+      <a href="/images/clients/61.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/61.jpg" alt="">
       </a>
-      <a href="/images/clients/7.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/7.jpg" alt="">
+      <a href="/images/clients/71.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/71.jpg" alt="">
       </a>
-      <a href="/images/clients/8.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/8.jpg" alt="">
+      <a href="/images/clients/81.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/81.jpg" alt="">
       </a>
-      <a href="/images/clients/9.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/9.jpg" alt="">
+      <a href="/images/clients/91.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/91.jpg" alt="">
       </a>
-      <a href="/images/clients/10.jpg" data-fancybox="clients" data-type="image">
-        <img src="/images/clients/10.jpg" alt="">
+      <a href="/images/clients/101.jpg" data-fancybox="clients" data-type="image">
+        <img src="/images/clients/101.jpg" alt="">
       </a>
     </div>
   </section>
