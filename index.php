@@ -2,7 +2,6 @@
 // подключаем файл с функциями
 include_once "functions.php"
 ?>
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -268,7 +267,8 @@ include_once "functions.php"
         <div class="calculator-form__range" id="month-slider"></div>
       </div>
       <div class="calculator-form__output-holder">
-        <output class="calculator-form__output" name="output"></output>
+        <div class="calculator-form__output"></div>
+        <div class="calculator-form__output-ndfl">Ежемесячная компенсация за вычетом НДФЛ 35%: </div>
       </div>
       <a class="button" data-fancybox href="#popup-callback">Зафиксировать прибыль</a>
     </form>
@@ -716,6 +716,24 @@ include_once "functions.php"
       <a href="/images/clients/10.jpg" data-fancybox="clients" data-type="image">
         <img src="/images/clients/10.jpg" alt="">
       </a>
+    </div>
+  </section>
+
+  <section class="section certs">
+    <h2 class="section__title">Сертификаты и лицензии</h2>
+    <div class="section__body container-fluid">
+      <div class="certs__slider base-slider">
+        <div class="certs__item">
+          <a data-fancybox="certs" data-type="image" href="/images/docs/souzmicrofinans.jpg">
+            <img src="/images/docs/souzmicrofinans.jpg" alt="">
+          </a>
+        </div>
+        <div class="certs__item">
+          <a data-fancybox="certs" data-type="image" href="/images/docs/sv-vo_reestr.jpg">
+            <img src="/images/docs/sv-vo_reestr.jpg" alt="">
+          </a>
+        </div>
+      </div>
     </div>
   </section>
 
