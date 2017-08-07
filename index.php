@@ -720,17 +720,22 @@ include_once "functions.php"
   </section>
 
   <section class="section certs">
-    <h2 class="section__title">Сертификаты и лицензии</h2>
+    <h2 class="section__title">Наши свидетельства:</h2>
     <div class="section__body container-fluid">
       <div class="certs__slider base-slider">
         <div class="certs__item">
-          <a data-fancybox="certs" data-type="image" href="/images/docs/souzmicrofinans.jpg">
-            <img src="/images/docs/souzmicrofinans.jpg" alt="">
+          <a data-fancybox="certs" data-type="image" href="/images/docs/registr_v_reestre_sro.jpg">
+            <img src="/images/docs/thumbs/registr_v_reestre_sro.jpg" alt="">
           </a>
         </div>
         <div class="certs__item">
-          <a data-fancybox="certs" data-type="image" href="/images/docs/sv-vo_reestr.jpg">
-            <img src="/images/docs/sv-vo_reestr.jpg" alt="">
+          <a data-fancybox="certs" data-type="image" href="/images/docs/svid_o_registracii.jpg">
+            <img src="/images/docs/thumbs/svid_o_registracii.jpg" alt="">
+          </a>
+        </div>
+        <div class="certs__item">
+          <a data-fancybox="certs" data-type="image" href="/images/docs/svid_o_postanovke.jpg">
+            <img src="/images/docs/thumbs/svid_o_postanovke.jpg" alt="">
           </a>
         </div>
       </div>
