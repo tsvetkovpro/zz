@@ -895,6 +895,10 @@ include_once "functions.php"
 
       <div class="form-submit-wrapper">
         <button class="button form-submit" type="sumbit">Да, позвоните мне</button>
+        <label class="form-agree">
+          <input type="checkbox" name="agree" value="yes" required>
+          Согласен на обработку персональных данных
+        </label>
       </div>
     </form>
   </div>
