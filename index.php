@@ -26,6 +26,8 @@ include_once "functions.php"
   <style>
     <?php include "critical-style.css";?>
   </style>
+  
+  <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-149713-gMGkY';</script>
 </head>
 <body>
   <header class="site-header">
