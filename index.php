@@ -102,7 +102,7 @@ include_once "functions.php"
         </div>
       </div>
 
-      <section class="intro-subsection">
+      <section id="dohod" class="intro-subsection">
         <h3 class="intro-subsection__title">«Ежемесячный доход»</h3>
         <div class="intro-subsection__content">
           <div class="intro-subsection__column">
@@ -164,7 +164,7 @@ include_once "functions.php"
       <hr class="intro__divider-subsection">
 
       <section class="intro-subsection intro-subsection--reverse">
-        <h3 class="intro-subsection__title">«Cберегательный»</h3>
+        <h3 id="dohod2" class="intro-subsection__title">«Cберегательный»</h3>
         <div class="intro-subsection__content">
           <div class="intro-subsection__column">
             <table class="intro__table">
@@ -252,7 +252,7 @@ include_once "functions.php"
     </div>
   </section>
 
-  <section class="section container-fluid calculator">
+  <section id="calculator" class="section container-fluid calculator">
     <h2 class="section__title">Калькулятор выгоды</h2>
     <div class="calculator__text">
       <p>Самостоятельно расчитайте выгоду от предложенных бонусов быстро и легко, с помощью онлайн-калькулятора</p>
@@ -684,7 +684,7 @@ include_once "functions.php"
 
   <section class="section faq">
     <div class="container-slim">
-      <h2 class="section__title faq__title">Посмотрите — возможно, среди этих вопросов есть и ваш</h2>
+      <h2 id="otvet" class="section__title faq__title">Посмотрите — возможно, среди этих вопросов есть и ваш</h2>
     </div>
     <div class="section__body container-slim">
       <dl class="faq__list js-accordion">
