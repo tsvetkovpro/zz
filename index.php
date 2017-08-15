@@ -26,7 +26,7 @@ include_once "functions.php"
   <style>
     <?php include "critical-style.css";?>
   </style>
-  
+
   <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-149713-gMGkY';</script>
 </head>
 <body>
@@ -878,7 +878,10 @@ include_once "functions.php"
           </svg>
         </a>
       </div>
-      <p class="site-footer__copy">СОЮЗZБЕРZАЙМ © 2017</p>
+      <div>
+        <p>© 2014 - 2017, КПК "СОЮЗ-ЗБЕРЗАЙМ" ОГРН 1145658017141, ИНН 5603041380 СРО "Союзмикрофинанс".
+Все услуги предоставляются только членам <br/> КПК «СОЮЗ-ЗБЕРЗАЙМ». Членство в кооперативе повлечет дополнительные расходы.</p>
+      </div>
     </div>
   </footer>
 
